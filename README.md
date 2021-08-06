@@ -13,10 +13,10 @@
 <br>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/></a>
-  <a href=""><img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/></a>
-  <a href=""><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/></a>
-  <a href=""><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/></a>
   <br>
   <a href="https://github.com/edwindefine"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
   <a href="https://youtube.com/channel/UCBJm_G_Wa9eD6KT5u6OBWCg"><img src="https://img.shields.io/youtube/channel/subscribers/UCBJm_G_Wa9eD6KT5u6OBWCg?style=social" />
