@@ -9,8 +9,9 @@
 
 - 👀 I m currently focusing on **JavaScript**.
 
-<br>
-<br>
+<p align="center>
+  <a href="#"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/></a
+</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/></a>
