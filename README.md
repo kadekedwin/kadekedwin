@@ -1,4 +1,4 @@
-<p align="center"> <img width=800, height=450, src="https://d.top4top.io/p_2243614y91.png"/> </p>
+<p align="center"> <img width=100%, src="https://d.top4top.io/p_2243614y91.png"/> </p>
 
 <h1 align='center'>
   Hello 👋 <br>
