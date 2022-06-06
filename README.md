@@ -1,19 +1,20 @@
-<p align="center"> <img width=100%, src="https://d.top4top.io/p_2243614y91.png"/> </p>
+<p align="left"> <img width=50%, src="https://d.top4top.io/p_2243614y91.png"/> </p>
 
-<h1 align='center'>
-  Hello 👋 <br>
-  I Am Kadek Edwin
+<h1>
+<!--   Hello 👋 <br>
+  I Am Kadek Edwin -->
+  Me.
 </h1> 
 
 - 🌱 I’m currently learning **Coding**.
 
-- 👀 I m currently focusing on **JavaScript**.
+- 👀 I m currently focusing on **IDK**.
 
-<p align="center>
-  <a href="#"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/></a
+<p align="left>
+  <a href="#"><img width=50px, src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/></a>
 </p>
 
-<p align="center">
+<p>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/></a>
@@ -24,20 +25,20 @@
 </p>
 
 <!--  Stats 1  -->
-<!-- <p align="center">
+<!-- <p align="left">
   <a href="https://github.com/edwindefine"><img src="https://github-readme-stats.vercel.app/api?username=edwindefine&bg_color=30,757575,000000&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/edwindefine"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwindefine&bg_color=30,757575,000000&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p> -->
   
 <!-- Stats 2 -->
   
-<p align="center">
+<p>
   <a href="https://github.com/edwindefine"><img src="https://github-readme-stats.vercel.app/api?username=edwindefine&show_icons=true&theme=radical"></a>
 </p>
-<p align="center">
+<p>
   <a href="https://github.com/edwindefine"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwindefine&theme=radical&layout=compact"></a>
 </p> 
 
