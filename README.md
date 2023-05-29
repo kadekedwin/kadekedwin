@@ -11,7 +11,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Node js-green?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white"/></a>
   <br>
-  <a href="https://github.com/edwindefine"><img src="https://img.shields.io/github/followers/edwindefine?style=social"/></a>
+  <a href="https://github.com/kadekedwin"><img src="https://img.shields.io/github/followers/kadekedwin?style=social"/></a>
   <a href="https://youtube.com/channel/UCBJm_G_Wa9eD6KT5u6OBWCg"><img src="https://img.shields.io/youtube/channel/subscribers/UCBJm_G_Wa9eD6KT5u6OBWCg?style=social" /></a>
 </p>
   
