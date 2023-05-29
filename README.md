@@ -23,32 +23,32 @@
 
 <!--  Stats 1  -->
 <!-- <p align="left">
-  <a href="https://github.com/edwindefine"><img src="https://github-readme-stats.vercel.app/api?username=edwindefine&bg_color=30,757575,000000&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api?username=kadekedwin&bg_color=30,757575,000000&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p>
-  <a href="https://github.com/edwindefine"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwindefine&bg_color=30,757575,000000&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kadekedwin&bg_color=30,757575,000000&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p> -->
   
 <!-- Stats 2 -->
   
 <p>
-  <a href="https://github.com/edwindefine"><img src="https://github-readme-stats.vercel.app/api?username=edwindefine&show_icons=true&theme=radical"></a>
+  <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api?username=kadekedwin&show_icons=true&theme=radical"></a>
 </p>
 <p>
-  <a href="https://github.com/edwindefine"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwindefine&theme=radical&layout=compact"></a>
+  <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadekedwin&theme=radical&layout=compact"></a>
 </p> 
 
 <details>
   <summary>&#127942 <b>GitHub Awards</b></summary><br/>
   
-  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=edwindefine&theme=onedark)
+  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=kadekedwin&theme=onedark)
 </details>
 
 <details>
   <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-  ![Metrics](https://metrics.lecoq.io/edwindefine?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FBali)
+  ![Metrics](https://metrics.lecoq.io/kadekedwin?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FBali)
 </details>
 
 <!--
