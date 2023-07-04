@@ -12,7 +12,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white"/></a>
   <br>
   <a href="https://github.com/kadekedwin"><img src="https://img.shields.io/github/followers/kadekedwin?style=social"/></a>
-  <a href="https://youtube.com/channel/UCBJm_G_Wa9eD6KT5u6OBWCg"><img src="https://img.shields.io/youtube/channel/subscribers/UCBJm_G_Wa9eD6KT5u6OBWCg?style=social" /></a>
+  <a href="https://youtube.com/@peretas"><img src="https://img.shields.io/youtube/channel/subscribers/UCZiOsjyeJ6YC8F4fBvOmhDw?style=social" /></a>
 </p>
   
 - 🌱 I’m currently learning **Coding**.
