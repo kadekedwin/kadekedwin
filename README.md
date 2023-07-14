@@ -24,10 +24,8 @@
 <p>
   <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api?username=kadekedwin&show_icons=true&theme=radical"></a>
   <a href="https://github.com/kadekedwin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kadekedwin&theme=radical"></a>
-</p>
-<p>
   <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadekedwin&theme=radical&layout=compact"></a>
-</p> 
+</p>
 
 <details>
   <summary>&#127942 <b>GitHub Awards</b></summary>
