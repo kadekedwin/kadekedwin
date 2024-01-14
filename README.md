@@ -5,8 +5,7 @@
 <hr/>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white"/></a>![Uploading pixel-goust-2.gif…]()
-
+  <a href="#"><img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Node js-green?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white"/></a>
