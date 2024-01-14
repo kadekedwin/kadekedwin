@@ -1,6 +1,5 @@
 <h1>Hello, I'm Edwin</h1>
-<!-- <p align="center"> <img width=50%, src="https://d.top4top.io/p_2243614y91.png"/> </p> -->
-<img width="50%", src="![pixel-goust-2](https://github.com/kadekedwin/kadekedwin/assets/71983420/426d7c37-defc-4234-87b6-e76f31e14956)"/>
+<img width="50%", src="https://github.com/kadekedwin/kadekedwin/assets/71983420/426d7c37-defc-4234-87b6-e76f31e14956"/>
 <p>(image by ibec system on dribbble)</p>
 
 <hr/>
