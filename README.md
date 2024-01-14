@@ -1,12 +1,13 @@
 <h1>Hello, I'm Edwin</h1>
 <!-- <p align="center"> <img width=50%, src="https://d.top4top.io/p_2243614y91.png"/> </p> -->
-<img width="50%", src="https://i.top4top.io/p_2348js3f01.gif"/>
+<img width="50%", src="![pixel-goust-2](https://github.com/kadekedwin/kadekedwin/assets/71983420/426d7c37-defc-4234-87b6-e76f31e14956)"/>
 <p>(image by ibec system on dribbble)</p>
 
 <hr/>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white"/></a>![Uploading pixel-goust-2.gif…]()
+
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Node js-green?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white"/></a>
