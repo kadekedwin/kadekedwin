@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=kadekedwin&theme=radical" alt="GitHub Streak Stats" />
+  <img width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=kadekedwin&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 <!--
 https://github-readme-streak-stats.vercel.app/?user=kadekedwin&theme=radical&hide_border=true
@@ -60,7 +60,7 @@ https://streak-stats.demolab.com/?user=kadekedwin&theme=radical&hide_border=true
 -->
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadekedwin&theme=radical" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadekedwin&theme=radical&hide_border=true" />
 </p>
 
 <details>
