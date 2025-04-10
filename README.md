@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kadekedwin"><img src="https://img.shields.io/github/followers/kadekedwin?style=social"/></a>
-  <a href="https://youtube.com/@kadekedwin"><img src="https://img.shields.io/youtube/channel/subscribers/UC1JNrxsEa5lCyFqvqcj8xIw?style=social"/></a>
+  <img src="https://img.shields.io/github/followers/kadekedwin?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/kadekedwin?label=Stars&style=for-the-badge&logo=github" />
 </p>
 
 <br>
@@ -39,24 +39,38 @@
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 
-<p align="left">
+<h2 align="center">🔥 GitHub Activity</h2>
+
+
+<p align="center">
   <a href="https://github.com/kadekedwin">
-    <img src="https://github-readme-stats.vercel.app/api?username=kadekedwin&show_icons=true&theme=aura_dark" alt="GitHub Stats"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kadekedwin&show_icons=true&theme=radical&hide_border=true" />
   </a>
-  <br/>
   <a href="https://github.com/kadekedwin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadekedwin&layout=compact&theme=aura_dark" alt="Top Languages"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadekedwin&layout=compact&theme=radical&hide_border=true" />
   </a>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=kadekedwin&theme=radical" alt="GitHub Streak Stats" />
+</p>
+<!--
+https://github-readme-streak-stats.vercel.app/?user=kadekedwin&theme=radical&hide_border=true
+https://streak-stats.demolab.com/?user=kadekedwin&theme=radical&hide_border=true
+-->
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadekedwin&theme=radical" />
 </p>
 
 <details>
   <summary>🏆 <b>GitHub Trophies</b></summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=kadekedwin&theme=darkhub&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kadekedwin&theme=radical&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies"/>
 </details>
 
 <details>
   <summary>📊 <b>GitHub Activity Metrics</b></summary>
   <br/>
-  <img src="https://metrics.lecoq.io/kadekedwin?template=classic&config.timezone=Asia%2FBali&languages=1&isocalendar=1&base.indepth=false&repositories.forks=true" alt="Metrics"/>
+  <img src="https://metrics.lecoq.io/kadekedwin?template=classic&config.timezone=Asia%2FBali&languages=1&isocalendar=1&base.indepth=false&repositories.forks=true&config.theme=radical" alt="Metrics"/>
 </details>
