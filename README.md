@@ -1,61 +1,45 @@
-<h1>Hello, I'm Edwin</h1>
-<img width="50%", src="https://github.com/kadekedwin/kadekedwin/assets/71983420/426d7c37-defc-4234-87b6-e76f31e14956"/>
-<p>(image by ibec system on dribbble)</p>
+<h1 align="center">Hey There, I'm Edwin 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/065824b3-e37d-4b57-8402-36c67e1b9d22" width="60%" alt="Edwin Banner"/>
+</p>
 
 <hr/>
 
-<p>
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white"/></a>
-  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <br><br>
   <a href="https://github.com/kadekedwin"><img src="https://img.shields.io/github/followers/kadekedwin?style=social"/></a>
-  <a href="https://youtube.com/@kadekedwin"><img src="https://img.shields.io/youtube/channel/subscribers/UC1JNrxsEa5lCyFqvqcj8xIw?style=social" /></a>
+  <a href="https://youtube.com/@kadekedwin"><img src="https://img.shields.io/youtube/channel/subscribers/UC1JNrxsEa5lCyFqvqcj8xIw?style=social"/></a>
 </p>
-  
-- 🌱 I’m currently learning **Code👾 and Design✨**.
-- 👀 I m currently focusing on **Mobile📱**.
-- 📫 You can reach me on **kadekedwin12@gmail.com**.
 
-<br/>
-  
-<p>
-  <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api?username=kadekedwin&show_icons=true&theme=radical"></a>
-  <a href="https://github.com/kadekedwin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kadekedwin&theme=radical"></a>
-  <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadekedwin&theme=radical&layout=compact"></a>
+---
+
+### 🌱 I’m currently learning **Code👾 and Design✨**  
+### 👀 I’m currently focusing on **Multiplatform📱💻**  
+### 📫 Reach me at **kadekedwin12@gmail.com**
+
+---
+
+<p align="center">
+  <a href="https://github.com/kadekedwin">
+    <img src="https://github-readme-stats.vercel.app/api?username=kadekedwin&show_icons=true&theme=aura_dark" alt="GitHub Stats"/>
+  </a>
+  <br/>
+  <a href="https://github.com/kadekedwin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadekedwin&layout=compact&theme=aura_dark" alt="Top Languages"/>
+  </a>
 </p>
 
 <details>
-  <summary>&#127942 <b>GitHub Awards</b></summary>
+  <summary>🏆 <b>GitHub Trophies</b></summary>
   <br/>
-  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=kadekedwin&theme=onedark)
+  <img src="https://github-profile-trophy.vercel.app/?username=kadekedwin&theme=darkhub&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies"/>
 </details>
 
 <details>
-  <summary>&#127942 <b>GitHub Activity</b></summary>
+  <summary>📊 <b>GitHub Activity Metrics</b></summary>
   <br/>
-  ![Metrics](https://metrics.lecoq.io/kadekedwin?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FBali)
+  <img src="https://metrics.lecoq.io/kadekedwin?template=classic&config.timezone=Asia%2FBali&languages=1&isocalendar=1&base.indepth=false&repositories.forks=true" alt="Metrics"/>
 </details>
-
-
-<!-- 
-<p><a href="#"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/></a></p>
-<p align="left">
-  <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api?username=kadekedwin&bg_color=30,757575,000000&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
-</p>
-<p>
-  <a href="https://github.com/kadekedwin"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kadekedwin&bg_color=30,757575,000000&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p> 
--->
-
-<!--
-**kadekedwin/kadekedwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
