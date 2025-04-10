@@ -5,9 +5,7 @@
 <hr/>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Node js-green?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white"/></a>
   <br>
   <a href="https://github.com/kadekedwin"><img src="https://img.shields.io/github/followers/kadekedwin?style=social"/></a>
@@ -15,7 +13,7 @@
 </p>
   
 - 🌱 I’m currently learning **Code👾 and Design✨**.
-- 👀 I m currently focusing on **UI/UX🌟**.
+- 👀 I m currently focusing on **Mobile📱**.
 - 📫 You can reach me on **kadekedwin12@gmail.com**.
 
 <br/>
